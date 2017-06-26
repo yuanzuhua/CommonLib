@@ -1,3 +1,5 @@
 2017-06-26 19:03:23,905 DEBUG ConsoleAppTest.Program - ddd
 2017-06-26 19:03:23,931  INFO ConsoleAppTest.Program - 132342
 2017-06-26 19:03:23,932 ERROR ConsoleAppTest.Program - agadfad
+2017-06-26 19:43:36,810 ERROR CommonLib.Configurations.Configuration - Unhandled exception: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ConsoleAppTest.Program.Main(String[] args) 位置 F:\Repository\CommonLib\CommonLib\ConsoleAppTest\Program.cs:行号 22
