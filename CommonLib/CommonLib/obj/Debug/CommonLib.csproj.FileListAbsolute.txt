@@ -1,0 +1,5 @@
+F:\Repository\CommonLib\CommonLib\CommonLib\bin\Debug\CommonLib.dll
+F:\Repository\CommonLib\CommonLib\CommonLib\bin\Debug\CommonLib.pdb
+F:\Repository\CommonLib\CommonLib\CommonLib\obj\Debug\CommonLib.csprojResolveAssemblyReference.cache
+F:\Repository\CommonLib\CommonLib\CommonLib\obj\Debug\CommonLib.dll
+F:\Repository\CommonLib\CommonLib\CommonLib\obj\Debug\CommonLib.pdb
