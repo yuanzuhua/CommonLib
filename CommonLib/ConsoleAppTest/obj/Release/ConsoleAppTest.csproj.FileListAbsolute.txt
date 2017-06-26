@@ -1,0 +1,13 @@
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Release\ConsoleAppTest.exe.config
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Release\ConsoleAppTest.exe
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Release\ConsoleAppTest.pdb
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Release\Autofac.dll
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Release\log4net.dll
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Release\Autofac.xml
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Release\log4net.xml
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\obj\Release\ConsoleAppTest.exe
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\obj\Release\ConsoleAppTest.pdb
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Release\CommonLib.dll
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Release\CommonLib.pdb
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\obj\Release\ConsoleAppTest.csprojResolveAssemblyReference.cache
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Release\log4net.config

@@ -1,0 +1,11 @@
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Debug\Autofac.dll
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Debug\CommonLib.dll
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Debug\log4net.dll
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Debug\Autofac.xml
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Debug\CommonLib.pdb
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\bin\Debug\log4net.xml
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+F:\Repository\CommonLib\CommonLib\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb

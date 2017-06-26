@@ -1,0 +1,9 @@
+F:\Repository\CommonLib\CommonLib\CommonLib\bin\Release\CommonLib.dll
+F:\Repository\CommonLib\CommonLib\CommonLib\bin\Release\CommonLib.pdb
+F:\Repository\CommonLib\CommonLib\CommonLib\bin\Release\Autofac.dll
+F:\Repository\CommonLib\CommonLib\CommonLib\bin\Release\log4net.dll
+F:\Repository\CommonLib\CommonLib\CommonLib\bin\Release\Autofac.xml
+F:\Repository\CommonLib\CommonLib\CommonLib\bin\Release\log4net.xml
+F:\Repository\CommonLib\CommonLib\CommonLib\obj\Release\CommonLib.dll
+F:\Repository\CommonLib\CommonLib\CommonLib\obj\Release\CommonLib.pdb
+F:\Repository\CommonLib\CommonLib\CommonLib\obj\Release\CommonLib.csprojResolveAssemblyReference.cache
